@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Backtracking
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0283-move-zeroes) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
