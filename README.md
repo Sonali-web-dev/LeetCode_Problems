@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0078-subsets) |
+| [0238-product-of-array-except-self](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 ## Backtracking
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
