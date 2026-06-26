@@ -75,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
