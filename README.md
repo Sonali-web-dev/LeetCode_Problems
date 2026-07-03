@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
