@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0867-transpose-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Backtracking
 |  |
@@ -98,8 +99,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
