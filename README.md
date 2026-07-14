@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 ## Simulation
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0867-transpose-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
