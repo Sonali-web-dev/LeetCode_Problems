@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0414-third-maximum-number) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
