@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0414-third-maximum-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1922-count-good-numbers](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -127,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
