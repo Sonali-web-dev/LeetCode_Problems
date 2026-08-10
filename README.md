@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
