@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0704-binary-search) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sliding Window
 |  |
 | ------- |
