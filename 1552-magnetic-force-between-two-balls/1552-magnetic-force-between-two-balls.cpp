@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     bool canPlace(vector<int>& position, int m, int minDist) {
@@ -14,7 +13,7 @@ public:
                 last = position[i];
             }
 
-            
+            // We successfully placed all m balls
             if (count >= m) {
                 return true;
             }
