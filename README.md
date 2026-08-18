@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Backtracking
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0867-transpose-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+## Greedy
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sonali-web-dev/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
